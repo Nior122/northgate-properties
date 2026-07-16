@@ -10,7 +10,7 @@ This isn't another generic property listing template. This is a **portfolio-grad
 
 Built with React, Tailwind CSS, and Framer Motion, this website delivers a visual experience that positions your agency as the premium choice in Lagos and Abuja's competitive real estate market.
 
-**[Live Preview](http://localhost:5173)** | **[GitHub Repository](https://github.com/Nior122/northgate-properties)**
+**[Live Preview](https://northgate-properties.vercel.app/))** | **[GitHub Repository](https://github.com/Nior122/northgate-properties)**
 
 ---
 
